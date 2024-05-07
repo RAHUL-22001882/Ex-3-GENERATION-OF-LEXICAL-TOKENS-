@@ -15,6 +15,12 @@
 5)	Stop the program.
 # PROGRAM
 ```
+NAME:RAHUL B
+```
+```
+REG NO:212222220032
+```
+```
 #include<stdio.h>
 #include<conio.h> 
 #include<ctype.h> 
